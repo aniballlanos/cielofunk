@@ -1,0 +1,24 @@
+html {
+    height: 100%;
+}
+body {
+    height: 600px;
+    min-height: 600px;
+}
+
+.storeicon, .inkicon {
+    width: 25px;
+    height: auto;
+}
+
+.bg_abo_b{ background-color: #ffffff;}
+.bg_abo_n{ background-color: #000000;}
+.bg_abo_r{ background-color: #a83232;}
+.bg_abo_az{ background-color: #3240a8;}
+.bg_abo_g{ background-color: #bababa;}
+.bg_abo_v{ background-color: #32a852;}
+.bg_abo_am{ background-color: #faf039;}
+.bg_abo_ar{ background-color: #d9c38d;}
+.bg_abo_mg{ background-color: #7de8b4;}
+.bg_abo_c{ background-color: #81f7f5;}
+.bg_abo_azm{ background-color: #151b59;}
